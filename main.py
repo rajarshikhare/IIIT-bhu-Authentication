@@ -9,7 +9,7 @@ url_site = 'http://intranet.iiit-bh.ac.in'
 #print("Opening Site....")
 s = requests.Session()
 
-credentials = [['b115043', 'ankhare']]
+credentials = []
 
 print("Logging out for new Session")
 
